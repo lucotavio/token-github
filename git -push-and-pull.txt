@@ -9,12 +9,12 @@ git pull https://[token]@github.com/lucotavio/[repositorio].git
 git pull https://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@github.com/lucotavio/linux-pos-instalacao.git
 
 
-TOKEN:  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
 
 
 
 
 
 
+repositorio token-github
 
-
+git push https://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@github.com/lucotavio/token-github.git
