@@ -6,7 +6,7 @@ git push https://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@github.com/lucotavio/L
 
 git pull https://[token]@github.com/lucotavio/[repositorio].git
 
-git pull https://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@github.com/lucotavio/linux-pos-instalacao.git
+git push https://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@github.com/lucotavio/Linux-pos-instalacao.git
 
 
 
